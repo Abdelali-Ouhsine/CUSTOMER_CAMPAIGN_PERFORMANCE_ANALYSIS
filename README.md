@@ -1,5 +1,5 @@
 # 📊 Marketing Campaign & Sales Performance Analysis
-
+ 
 ## 📝 Project Overview
 This project was developed as a **Junior Data Analyst** assignment to measure the effectiveness of marketing campaigns and identify top-performing products. By analyzing a comprehensive dataset of customer demographics, transactions, and campaign responses, this project provides actionable business insights to optimize future marketing spend.
 
